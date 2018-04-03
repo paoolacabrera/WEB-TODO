@@ -1,0 +1,50 @@
+
+
+body {
+   background-color: #000000;
+   text-align: center;
+}
+
+
+.header img {
+   background: url= "head2.png" margin:0 auto; max-width:1024px; ;
+   background-size: cover;
+   height: auto; 
+   border: 20% solid #000;
+   text-align: center;
+   
+   }
+
+.nav ul {
+	list-style: none;
+	background-color: 	#DAA520 ;
+	text-align: center;
+	padding: 1% ;
+    margin: 1%;
+    font-family: Bebas Neue, regular ;
+    font-size: 300% ;
+     }
+
+.nav li {
+  display: inline-block;
+  }
+
+.nav a {
+	text-decoration: none;
+	width: 100% ; 
+	display: block;
+	padding: 4% ;
+	font-size: 200% ;
+	transition: 0.4s ;
+	}
+
+     .nav a: why { 
+
+		color: 	#000000;
+		}
+
+    .article h2 { 
+
+      font-size: 200%  ;
+      font-family: Bebas Neue ;
+     }
