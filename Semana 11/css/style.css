@@ -37,23 +37,23 @@ nav li{
    padding: 5px;
    margin: 0px 50px;
    margin-top: 40px ;
-   color: purple;
+   color: white;
   
 
 }
 
 a link {
-    color: purple;
+    color: white;
 }
 
 
 a: visited {
-    color: purple;
+    color: white;
 }
 
 
 a: active {
-    color:purple;
+    color:white;
 }
 
 
@@ -89,7 +89,7 @@ h2 {
 
 .wrapper div img, .paragraph div img {
 	border-radius: 0%;
-	width: 300px;
+	width: 0px;
 }
 
 .paragraph
