@@ -1,0 +1,16 @@
+style.css
+.wrapper {
+  display: flex;
+}
+
+.wrapper div {
+  flex: 10;
+  border: 7px solid blue;
+  padding: 30px;
+  text-align: center;
+}
+
+.wrapper div img {
+  border-radius: 30%;
+  width: 100px;
+}
